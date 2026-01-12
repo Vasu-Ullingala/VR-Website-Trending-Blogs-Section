@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.vr-web-trending-bg-container {
+    padding: 14px;
+    font-family: "Roboto";
+}
+
+.vr-web-trending-main-heading {
+    color: #1f2933;
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.details-heading {
+    color: #959ead;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.details-description {
+    color: #323f4b;
+    font-size: 15px;
+}
+
+.link-style {
+    color: #1754a1;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.btn {
+    color: #ffffff;
+    background-color: #1754a1;
+    width: 138px;
+    height: 45px;
+}
